@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mclaren F1 Modified | Voxel
+* source:	https://sketchfab.com/3d-models/mclaren-f1-modified-voxel-d0eebfa2c98b4814a3773a1cfb7bb963
+* author:	Fenrate (https://sketchfab.com/Fenrate)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mclaren F1 Modified | Voxel" (https://sketchfab.com/3d-models/mclaren-f1-modified-voxel-d0eebfa2c98b4814a3773a1cfb7bb963) by Fenrate (https://sketchfab.com/Fenrate) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
